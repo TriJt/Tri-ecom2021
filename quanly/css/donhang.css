@@ -1,0 +1,25 @@
+.text-left{ 
+    padding: 30px 20px 20px 0;
+}
+h2{
+    color: #08088A;
+}
+/* phần thong tin người mua  */
+.thongtinnguoimua{
+    padding: 10px 20px 40px 20px;
+}
+.table {
+     border: 2px solid black;
+}
+.sanpham{
+    padding: 10px 20px 40px 20px;
+}
+/* thêm danh mục và cập nhật trạng thái */
+.form-group1{
+    width: 400px;
+    padding: 20px 0px 20px 0 ;
+}
+.form-group{
+    border: 1px solid black;
+    
+}

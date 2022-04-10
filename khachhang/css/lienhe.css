@@ -1,0 +1,55 @@
+.form-control1{ 
+    border: 2px groove;
+    height: 50px;
+    width: 400px;
+}
+.form-control1:hover{
+    border: 2px solid black;
+}
+.form-control2{ 
+    margin-top: 10px;
+    border: 2px groove;
+    height: 100px;
+    width: 100%;
+}
+.form-control2:hover{
+    border: 2px solid black;
+}
+.form-control3{ 
+    border: 2px groove;
+    height: 50px;
+    width: 200px;
+}
+.form-control3:hover{
+    border: 2px solid black;
+}
+.button-form{ 
+    height: 50px;
+    width: 200px;
+    background-color: black;
+    color: white;
+}
+.button-form:hover{ 
+    background-color: #3ADF00;
+}
+h1{ 
+    font-weight: 500 ;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+h2{ 
+    margin-bottom: 10px;
+}
+.col-md-6{ 
+    margin-bottom: 100px;
+}
+.err{
+    margin-top: 5px;
+   
+}
+h3{ 
+    color: black;
+}
+h1{ 
+    color: black;
+}

@@ -1,0 +1,46 @@
+
+.col { 
+    text-align: center;
+}
+.col .timkiem { 
+    font-size: 18px;
+}
+.col .form-timkiem{ 
+    width: 500px ;
+    height: 50px;
+    color: black;
+    margin: auto;
+}
+.col .button-find{ 
+    width: 100px;
+    height: 30px;
+    border-radius: 30px 30px 30px 30px;
+    margin-left: 20px;
+}
+.product-find{ 
+    width: 400px;
+    margin: 40px 200px 0 0 ;
+    border-bottom: 1px solid black;
+    text-align: center;
+    float: left;
+}
+.sanpham{ 
+    padding-left: 250px;
+    margin-bottom: 300px;
+}
+
+.hinhanh{ 
+    width: 100px;
+    float: left;
+}
+.thongtin{ 
+    width: 300px;
+    float: right;
+    font-size: 16px;
+    margin: 20px 0 20px 0 ;
+    text-align: left;
+}
+.thongtin h4{ 
+    font-size: 16px;
+    margin-top: 30px;
+}

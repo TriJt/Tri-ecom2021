@@ -1,0 +1,57 @@
+
+.form1{ 
+   margin: 30px 30px 0 0 ;
+    width: 300px;
+    height: 50px;
+}
+table{ 
+    text-align: left;
+}
+.form2{ 
+    text-align: center;
+    margin: auto;
+}
+.quanly{ 
+    text-align: center;
+}
+h2{ 
+    color: black;
+    font-weight: 500;
+    inset-block: none;
+    text-align: center;
+}
+h6{
+    text-align: center;
+    color: gray;
+}
+.form{ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.form-dangnhap{ 
+    width: 600px;
+    height: 600px;
+    text-align: left; 
+    padding-left: 100px;
+    margin-top: 50px;
+}
+.form-control1{
+    border: 2px groove;
+    width: 80%;
+    height: 50px;
+    margin-top: 10px;
+}
+.button-1{ 
+    background-color: black;
+    border: none;
+    height:50px;
+    color: white; 
+}
+.button-1:hover{ 
+    background-color: #3ADF00;
+}
+.form-group{ 
+    border: none;
+}

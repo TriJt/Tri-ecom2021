@@ -1,0 +1,40 @@
+.them{ 
+    color: #DBA901;
+}
+.content1{ 
+    font-family: Montserrat, Arial, sans-serif;
+}
+h5 {
+    font-family: Montserrat, Arial, sans-serif;
+    margin-bottom: 40px;
+}
+.content1 h3 { 
+    color: #DBA901;
+    font-family: Montserrat, Arial, sans-serif;
+    margin-bottom: 20px;
+}
+b { 
+    color: #DBA901;
+} 
+.cauhoi {
+    margin-bottom: 50px;
+}
+h3{ 
+    padding-bottom: 0px;
+}
+
+.col-md-8 { 
+    padding-bottom: 60px;
+}
+.form-control1{
+    border: 2px groove;
+    width: 60%;
+    height: 50px;
+}
+.form-control1:hover{ 
+    border: 2px solid black;
+}
+.duongke{
+    border-bottom: 1px solid black;
+    margin-bottom: 30px;
+}

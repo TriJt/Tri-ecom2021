@@ -1,0 +1,12 @@
+.button-tk{ 
+    background-color: black;
+    border: none;
+    height:50px;
+    color: white; 
+    outline: none;
+    position: relative;
+    display: inline-block;
+}
+.button-tk:hover{ 
+    background-color: #3ADF00;
+}

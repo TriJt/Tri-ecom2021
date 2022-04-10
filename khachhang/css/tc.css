@@ -1,0 +1,185 @@
+/* tham khảo hình ảnh ở trang https://www.shoecarnival.com   */
+.logo{ 
+    padding-bottom: 80px;
+    text-align: center;
+    margin: 0 auto;
+}
+.logo .navbar-brand h2{ 
+    font-weight:bolder;
+    padding-top: 40px;
+    padding-left:  500px ;
+    padding-bottom: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.logo .navbar-brand{
+    text-align: center;
+    margin: 0 auto;
+}
+/* phần menu đầu trang */
+a{ 
+    font-size: 16px;
+    color:black;
+}
+a:hover{ 
+    color: black;
+}
+.navbar{ 
+    background-image: none;
+}
+ .menu { 
+    padding-top: 40px;
+    padding-bottom: 60px;
+    background-image: none;
+    margin-top: 40px;
+}
+.C{ 
+    color: #FF0000;
+}
+.H{ 
+    color: #FF8000;
+}
+li{ 
+    width: 220px;
+    
+}
+
+/* Phần của sản phẩm giới thiệu */ 
+.categories{ 
+    margin:40px 0;
+    padding-top: 40px;
+}
+
+.col-lg-4{ 
+    flex-basis: 30%;
+    min-width: 250px;
+    margin-bottom: 30px;
+
+}
+.col-lg-4 img{ 
+    width: 100%;
+}
+ /*-------testimonial---*/
+.testimonial .small-container .row .col-3 p{ 
+    font-size: 14px;
+}
+.testimonial { 
+    padding-top: 100px;
+}
+/* phần tiêu đề hiện lên trước sản phẩm ở trang chủ */
+.title {
+    text-align: center;
+    margin-bottom:20px ;
+    font-weight: normal;
+    font-size: 22px;
+    font-family: Montserrat, Arial, sans-serif;
+    text-decoration-color:black;
+    text-decoration-line: underline; 
+    text-underline-position:under ;
+
+}
+
+/* sản phẩm hiện ở trang chủ  */
+.col-lg-3 { 
+    padding-left: 30px; 
+    padding-right: 30px;
+}
+.row .col-lg-3 h3 {
+    color: black;   
+    font-weight: normal; 
+    text-align: center;
+    height : 20px; 
+    padding-top: 10px;
+    padding-bottom: 20px;
+    font-family: Montserrat, Arial, sans-serif;                
+}
+/* biểu ngữ cho website */
+.bieungu{ 
+   font-size: 18px; 
+   text-align: center;
+   font-weight: normal; 
+   padding-top: 40px; 
+   padding-bottom: 40px;
+}
+
+/* phần bình luận của người mua  */
+
+
+.testimonial .col-lg-4 { 
+    text-align: center;
+    padding: 0 20px  0 20px ;
+    box-shadow: 10px 0 20px 10px rgba(34, 3, 3, 0.1);
+    cursor: pointer;
+    transition: transform 0.5;
+    vertical-align: top;
+    width: 350px;
+    height: 400px;
+    margin: 0 20px 80px 20px;
+}
+.testimonial .col-lg-4 img{ 
+    width: 50px;
+    margin-top: 20px;
+    border-radius: 50%;
+}
+.testimonial .col-lg-4:hover{ 
+    transform: translateY(-5px);
+}
+.fa.fa-quote-left{ 
+    font-size: 30px;
+    color: #FF8000;
+}
+.rating { 
+    color:#FF8000 ;
+}
+.col-lg-4 p { 
+    font-size: 14px;
+    margin:12px 0 ;
+    color: #2A1B0A;
+}
+.testimonial .col-lg-4 h3{ 
+    font-weight: 600;
+    color: #FAAC58;
+    font-size: 16px;
+}
+.k1{ 
+    margin: 40px 0 0 0 ;
+}
+.k2{ 
+    margin: 20px 0 10px 0;
+    height: 100px;
+}
+
+/*--------footer--------*/
+
+
+/* phần icon */
+.icon-fo{ 
+    max-width: 1300 px;
+    margin: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 0px;
+    padding-top: 20px;
+}
+.icon-size{ 
+    text-align: center;
+}
+.icon-fo img{ 
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.cuoitrang{ 
+    color: black;
+    font-size: 20px;
+}
+.cuoitrang:hover{ 
+    color: black;
+}
+.dongcuoi{
+    font-size: 14px;
+    text-align: center;
+    margin: 30px 0 30px 0;
+}
+

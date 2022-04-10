@@ -1,0 +1,89 @@
+.thongtinhanhang{
+    margin: auto;
+    width: 1000px;
+}
+/* phần bản thông tin */
+.bangthongtin{ 
+    margin: 30px 0 40px 0;
+}
+.form-control1{
+    border: 2px groove;
+    width: 60%;
+    height: 40px;
+}
+.form-control1:hover{ 
+    border: 2px solid black;
+}
+/* 2 nút thanh toán và xóa giỏ hàng */
+.bt1{ 
+    background-color: black;
+    width: 200px;
+    height: 30px;
+    color: white;
+    margin: 20px 0 20px 0;
+}
+.bt1:hover{
+    background-color: red;
+}
+.bt2{ 
+    background-color: #6CB33F;
+    width: 250px;
+    height: 50px;
+    color: white;
+    margin: 20px 0 80px 0 ;
+    float: right;
+    border: none;
+}
+.bt2:hover{
+    background-color: black;
+}
+.bt3{ 
+    background-color: black;
+    width: 200px;
+    height: 30px;
+    color: white;
+    margin: 20px 0 20px 0;
+}
+.bt3:hover{
+    background-color: green;
+}
+.tieude{
+    color: #DBA901;
+}
+.truong{
+    color:black;
+    width: 18%;
+    font-size: 18px;
+    font-weight: bolder;
+}
+.ttdh{ 
+    color: black;
+    }
+    .ttdh:hover{ 
+        color: blue;
+    }
+    .xgh{ 
+        color: black;
+    }
+    .xgh:hover{
+        color: red;
+    }
+.ttkh{ 
+    font-weight: normal;
+    color:black"
+}
+.gh{ 
+    font-weight: normal; 
+    color: black;
+}
+.td{ 
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+}.thongbao{ 
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.thongbaovanchuyen{ 
+    margin-bottom: 40px;
+}

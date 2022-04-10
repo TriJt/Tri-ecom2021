@@ -1,0 +1,35 @@
+
+.button-1{ 
+    background-color: black;
+    border: none;
+    height:50px;
+    color: white; 
+}
+.button-1:hover{ 
+    background-color: #3ADF00;
+}
+.col-2{
+    
+    margin-left:200px ;
+}
+.them{ 
+    color: #DBA901;
+}
+
+.content1 h3 { 
+    color: #DBA901;
+}
+.invang { 
+    color: #DBA901;
+}
+.form-control1{
+    border: 2px groove;
+    width: 90%;
+    height: 50px;
+}
+.form-control1:hover{ 
+    border: 2px solid black;
+}
+h3{ 
+    color: black;
+}
